@@ -33,7 +33,7 @@ The project is being developed step-by-step, starting from the mechanical design
 * [ ] IMU simulation
 * [ ] Autonomous navigation
 
-## 📐 Mechanical Design
+##  Mechanical Design
 
 The current design consists of:
 
